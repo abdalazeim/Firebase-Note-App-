@@ -1,0 +1,6 @@
+package com.example.abdnotefirebase
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
